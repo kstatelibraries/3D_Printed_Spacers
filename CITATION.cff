@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Hale Library 3D Printed Spacers
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: David
+    family-names: Molik
+    email: molik@ksu.edu
+    affiliation: Kansas State Libraries
+    orcid: 'https://orcid.org/0000-0003-3192-6538'
+repository-code: 'https://github.com/kstatelibraries/3D_Printed_Spacers'
+url: 'https://github.com/kstatelibraries/3D_Printed_Spacers'
+abstract: >-
+  This repository contains 3D-printable designs for cube
+  spacer components used in Hale Library’s cube riser
+  extensions. The STL and GLTF files provided support
+  modular assembly at various angles and elevations,
+  enabling custom configurations for display or structural
+  setups. These models are intended for reuse, adaptation,
+  and contribution within the Sunderland Innovation Lab,
+  Kansas State Library, and larger K-State community and
+  beyond. 
+keywords:
+  - stl
+  - gltf
+  - cube
+  - cubeland
+license: ODbL-1.0
