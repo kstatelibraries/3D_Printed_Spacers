@@ -33,3 +33,10 @@ This repository contains the following GLTF and STL files for 3D printing:
 - spacer\_cube\_riser\_90\_0 - a spacer which connects a two panels at 90 degrees where one is slightly lower than the other
 - spacer\_cube\_riser\_90\_1 - a spacer which connects two panels at any height
 - spacer\_cube\_riser\_90\_2 - a spacer which is functionally the same as spacer\_cube\_riser\_90\_0, but with some embellishment triangles
+
+## CAD
+
+While this repository contains the STL and GLTF files, the CAD Files can be found on TinkerCAD 
+
+[Link text Here](https://link-url-here.org)
+
