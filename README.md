@@ -25,7 +25,8 @@ Or in bibtex:
 
 This repository contains the following GLTF and STL files for 3D printing:
 
-- spacer\_cube\_riser\_180 – a spacer used for connecting two cube riser panels at the top
+- spacer\_cube\_riser\_180\_0 – a spacer used for connecting two cube riser panels at the top
+- spacer\_cube\_riser\_180\_1 – a spacer used for connecting two cube riser panels at the top with embellishment triangles
 - spacer\_cube\_riser\_360 - a spacer used for end pieces of riser panels at the top
 - spacer\_cube\_riser\_90\_0 - a spacer which connects a two panels at 90 degrees where one is slightly lower than the other
 - spacer\_cube\_riser\_90\_1 - a spacer which connects two panels at any height
