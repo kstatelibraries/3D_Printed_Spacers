@@ -1,7 +1,7 @@
 # Hale Library 3D Printed Spacers
 This Repository contains designs for 3D printed spacers for the cube extentions 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15677010.svg)](https://doi.org/10.5281/zenodo.15677010)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15677009.svg)](https://doi.org/10.5281/zenodo.15677009)
 
 ## Citing the Specification itself
 cite the data set  when directly interacting with the specification (pull requests, comments on schema)
