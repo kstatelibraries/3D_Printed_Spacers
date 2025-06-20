@@ -19,7 +19,7 @@ Or in bibtex:
     year = {2025},
     title = {{Hale Library 3D Printed Spacers}},
     url = {https://github.com/kstatelibraries/3D_Printed_Spacers},
-    doi = {}
+    doi = {10.5281/zenodo.15677009}
 }
 ```
 
@@ -36,7 +36,13 @@ This repository contains the following GLTF and STL files for 3D printing:
 
 ## CAD
 
-While this repository contains the STL and GLTF files, the CAD Files can be found on TinkerCAD 
+While this repository contains the STL and GLTF files, the CAD Files can be found on TinkerCAD, Note: CAD designs are under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/):
 
-[Link text Here](https://link-url-here.org)
+- [spacer\_cube\_riser\_180\_0](https://www.tinkercad.com/things/33xDjGwnhWe-spacercuberiser1800/edit)
+- [spacer\_cube\_riser\_180\_1](https://www.tinkercad.com/things/bViUlFvczoE-spacercuberiser1801/edit)
+- [spacer\_cube\_riser\_360](https://www.tinkercad.com/things/1pPetd9LiX9-spacercuberiser360/edit)
+- [spacer\_cube\_riser\_90\_0](https://www.tinkercad.com/things/lgvtYZNNx6p-spacercuberiser900/edit)
+- [spacer\_cube\_riser\_90\_1](https://www.tinkercad.com/things/4kwOpQi4Ggs-spacercuberiser901/edit)
+- [spacer\_cube\_riser\_90\_2](https://www.tinkercad.com/things/lDtAm5DEcit-spacercuberiser902/edit)
+
 
